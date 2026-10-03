@@ -1,0 +1,44 @@
+{
+  "page_1_image_1.png": {
+    "sha256": "12048058890d45b1d4ddf64a257fc74683ac1ad5b352e0a1c7dbdd009120901b",
+    "page": 1,
+    "model": "qwen/qwen3.8-27b",
+    "source": "recovered from notebook outputs",
+    "summary": "Based on the visual provided, here is the useful business information:\n\n**Facility Overview**\n*   **Name:** Penang Smart Assembly Facility\n*   **Opening Date:** 2024\n*   **Size:** 18,000 m²\n*   **Certification:** ISO 9001 certified\n\n**Operational Metrics (FY2026)**\n*   **Facility Utilization:** 82%\n*   **Solar Contribution to Electricity:** 34%\n\n**Visual Details**\n*   The image depicts a single-story industrial building with a grey roof and white walls.\n*   Solar panels are installed on the roof, consistent with the reported solar energy contribution.\n*   A loading dock is visible on the right side of the building with a delivery truck parked at the entrance."
+  },
+  "page_3_image_1.png": {
+    "sha256": "471072aebb0af0d48f5b7392465ad7fd0f8987371b8f4b21057fb312ae3e0e8f",
+    "page": 3,
+    "model": "qwen/qwen3.8-27b",
+    "source": "recovered from notebook outputs",
+    "summary": "Based on the visual provided, here is the description of the business information:\n\n**Chart Type:** Line Graph\n\n**Title:** Quarterly Revenue Trend\n\n**Axes:**\n*   **X-Axis (Horizontal):** Represents time in quarters, spanning from Q1 2025 to Q4 2026.\n*   **Y-Axis (Vertical):** Represents Revenue in USD millions, with a scale ranging from 22 to 38.\n\n**Data Points & Values:**\n*   **Q1 2025:** ~22 million (Lowest value)\n*   **Q2 2025:** ~23.5 million\n*   **Q3 2025:** ~25.2 million\n*   **Q4 2025:** ~27.2 million\n*   **Q1 2026:** ~28.5 million\n*   **Q2 2026:** ~31.5 million\n*   **Q3 2026:** ~34.1 million\n*   **Q4 2026:** ~37.5 million (Highest value)\n\n**Main Trend:**\nThe chart displays a consistent and strong upward trend in revenue over the two-year period. The company shows steady growth every quarter, with no periods of decline or stagnation. The total revenue growth from the start of the period (Q1 2025) to the end (Q4 2026) is approximately 15.5 million USD."
+  },
+  "page_4_image_1.png": {
+    "sha256": "9d7e358cbe5f3dbc3084549b0c53a81238e3973aa944f4d661b5a9c64db1c271",
+    "page": 4,
+    "model": "qwen/qwen3.8-27b",
+    "source": "recovered from notebook outputs",
+    "summary": "Based on the visual provided, here is the description of the business information:\n\n**Chart Type:** Vertical Bar Chart\n\n**Title:** 2026 Year-over-Year Revenue Growth by Region\n\n**Axes:**\n*   **Y-Axis:** Represents \"Growth (%)\" with a scale ranging from 0 to 35.\n*   **X-Axis:** Represents four distinct geographic regions.\n\n**Data Values:**\nThe chart displays the specific year-over-year revenue growth percentage for each region:\n*   **Europe:** 31%\n*   **North America:** 27%\n*   **Asia Pacific:** 24%\n*   **Middle East:** 18%\n\n**Key Trends and Comparisons:**\n*   **Highest Value:** Europe shows the highest revenue growth at 31%.\n*   **Lowest Value:** The Middle East shows the lowest revenue growth at 18%.\n*   **Overall Trend:** The data indicates a descending trend in growth rates when moving from left to right across the regions presented. Europe leads the growth, followed by North America, Asia Pacific, and finally the Middle East."
+  },
+  "page_5_image_1.png": {
+    "sha256": "9a843db3789953cd111c7f25458ad50d8423ebf922d82a7e1b582022043608ef",
+    "page": 5,
+    "model": "qwen/qwen3.8-27b",
+    "source": "recovered from notebook outputs",
+    "summary": "Based on the visual provided, here is the description of the business information:\n\n**Visual Type:** Business Diagram / Product Portfolio Overview\n\n**Key Components:**\nThe visual displays three specific product cards from the \"NovaCore Product Portfolio - 2026.\" Each card contains a product icon, name, category description, and a specific financial metric (gross margin).\n\n**Product Details:**\n*   **AtlasEdge X1**\n    *   **Category:** AI edge gateway\n    *   **Financial Metric:** 46% gross margin\n*   **VisionHub Pro**\n    *   **Category:** Vision inference node\n    *   **Financial Metric:** 41% gross margin\n*   **CoreSense Mini**\n    *   **Category:** IoT sensor hub\n    *   **Financial Metric:** 37% gross margin\n\n**Data Analysis:**\n*   **Highest Value:** The AtlasEdge X1 has the highest gross margin at 46%.\n*   **Lowest Value:** The CoreSense Mini has the lowest gross margin at 37%.\n*   **Trend:** The gross margins decrease sequentially across the displayed products (46% -> 41% -> 37%).\n\n**Key Note:**\nA text annotation at the bottom explicitly states: \"Note: AtlasEdge X1 is the highest-margin product in the 2026 portfolio.\""
+  },
+  "page_6_image_1.png": {
+    "sha256": "97a2eb0c223111dfa1c7844c72b1083942f809ebfaf0a4cc0eef5e1369c17cf0",
+    "page": 6,
+    "model": "qwen/qwen3.8-27b",
+    "source": "recovered from notebook outputs",
+    "summary": "Based on the visual provided, here is the description of the business information:\n\n**Diagram Type:** Process Flow Diagram\n\n**Title:** NovaCore Supply Chain Flow\n\n**Process Flow & Key Components:**\nThe diagram illustrates a linear, five-stage supply chain process moving from left to right:\n\n1.  **Component Suppliers:**\n    *   **Locations:** Malaysia / Taiwan\n2.  **Assembly:**\n    *   **Location:** Penang, Malaysia\n3.  **Quality Lab:**\n    *   **Location:** Singapore\n4.  **Regional Hubs:**\n    *   **Locations:** Rotterdam / Dubai\n5.  **Enterprise Customers:**\n    *   **Scope:** 42 countries\n\n**Key Operational Details:**\n*   **Critical Control Point:** The diagram highlights the **Quality Lab** as a critical control point.\n*   **Testing Requirements:** A note below the flow indicates that \"Every production batch must pass thermal, network, and firmware tests before export.\""
+  },
+  "page_8_image_1.png": {
+    "sha256": "14e1c7b97183bb85ef45b4f750ab75950b9f66ae6b55f6206f124473675ef1e6",
+    "page": 8,
+    "model": "qwen/qwen3.8-27b",
+    "source": "recovered from notebook outputs",
+    "summary": "Based on the visual provided, here is the description of the business information:\n\n**Chart Type:** Pie Chart\n**Title:** Penang Facility Electricity Mix - 2026\n\n**Data Breakdown:**\nThe chart illustrates the projected sources of electricity for the Penang facility in the fiscal year 2026, divided into three categories:\n\n*   **Grid electricity:** 51% (The largest segment, represented in blue)\n*   **Solar:** 34% (The second largest segment, represented in orange)\n*   **Purchased renewables:** 15% (The smallest segment, represented in green)\n\n**Key Observations:**\n*   **Highest Value:** Grid electricity is the primary source, accounting for just over half (51%) of the facility's power.\n*   **Lowest Value:** Purchased renewables make up the smallest portion of the mix at 15%.\n*   **Overall Trend:** The facility relies on a mixed energy model. While grid electricity remains the dominant source, a significant portion (49%) is derived from renewable sources (combining Solar and Purchased renewables)."
+  }
+}

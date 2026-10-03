@@ -1,0 +1,10 @@
+.git
+.venv
+.env
+.cache
+.pytest_cache
+__pycache__
+notebooks
+tests
+*.pdf
+!NovaCore_Multimodal_Company_Report_2026.pdf

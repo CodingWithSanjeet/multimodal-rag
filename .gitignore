@@ -39,8 +39,13 @@ venv.bak/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
-# Extracted Image Assets (Generated at runtime)
+# Old notebook image output (images now live in assets/images/ and ARE committed)
 novacore_extracted_images/
+
+# Local model cache, Streamlit secrets, test caches
+.cache/
+.streamlit/secrets.toml
+.pytest_cache/
 
 # Operating System Files
 .DS_Store

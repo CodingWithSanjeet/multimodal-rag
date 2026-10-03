@@ -1,0 +1,13 @@
+[server]
+headless = true
+maxUploadSize = 5
+enableXsrfProtection = true
+
+[client]
+toolbarMode = "viewer"
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
